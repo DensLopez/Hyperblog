@@ -1,15 +1,10 @@
 body
 {
     color: #333;
-<<<<<<< HEAD
+
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
-=======
-    text-align: center;
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 25px;
->>>>>>> Cabecera
     margin: 0;
     padding: 0;
 } 

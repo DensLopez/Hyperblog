@@ -10,5 +10,5 @@ Este blog es un ejemplo para el curso de Git & Git Hub para Platzi
 - &bull; Multiples entornos de trabajo.
 
 ------------
-
+Este Readme cambiar&aacute; con respecto del tiempo
 **Esto solo es un ejemplo de un readme**
